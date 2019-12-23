@@ -1,0 +1,32 @@
+-----------------------------------------------------------
+-----------------------------------------------------------
+AIM ::
+"The Particle Life" programming in JS with additional features
+
+
+USAGE ::
+Clicking anywhere on screen:  Creates an artificial gravity for 5
+Wheel up/down:  Speed/up down interaction of all particles
+Middle click:   Select a particle family and apply other 
+  functionalities to only this family
+
+-----------------------------------------------------------
+----------------------------------------------------------
+VERSİYONLAR ::
+
+ 
+  12  ekrana yazı (frame count 480 - 560)
+  11  minör düzeltmeler
+  10  orta tuş renk seçiyor, özellikler bu renge etkiyor
+  09  orta tuş birini manyağa çevirsin
+  08  ufak eklemeler
+  07  kenarları ekle collision detection ekle
+  06  çalıştırdım. 
+  05  herbiri hesaplayıp kayıyor bunun yerine
+  04  x'leri floorlamayınca düzeldi ama yakın temasta prb
+  03  sayım kodları tamam, debug'a
+  02  çizim tamam. say (adım) yazılacak
+  01  kurulum
+
+-----------------------------------------------------------
+----------------------------------------------------------
